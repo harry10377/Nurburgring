@@ -8,6 +8,8 @@ from dash import Dash, html, dcc, Input, Output, State
 
 app = Dash(__name__)
 
+server = app.server
+
 # --------------------------------------------------
 # COLOUR PALETTE (Nordschleife: forest, kerbs, asphalt)
 # --------------------------------------------------
