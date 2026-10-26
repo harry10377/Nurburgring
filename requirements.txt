@@ -1,4 +1,4 @@
 Dash
 gunicorn
-panda
+pandas
 plotly
